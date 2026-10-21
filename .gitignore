@@ -1,0 +1,18 @@
+target/
+node_modules/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Vaadin generated files
+src/main/frontend/generated/
+src/main/bundles/
+frontend/generated/
+package.json
+package-lock.json
+pnpm-lock.yaml
+tsconfig.json
+types.d.ts
+vite.config.ts
+vite.generated.ts
