@@ -9,7 +9,12 @@
 
 A simple CRUD web application in Java, built by following the
 [Creating CRUD UI with Vaadin](https://spring.io/guides/gs/crud-with-vaadin/) guide.
-The main goal of this project is to practise **Java, Git, GitHub, Pull Requests and collaboration**.
+The main goal of the project is to practise 
+**Java
+Git
+GitHub
+Pull Requests
+collaboration**.
 
 ## Features
 
